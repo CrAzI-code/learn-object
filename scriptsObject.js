@@ -2,7 +2,7 @@ const {log} = console;
 
 
 let listOfNumbers = [2, 3, 5, 7, 11];
-log(listOfNumbers[2]);
+log(listOfNumbers[5]);
 
 log(listOfNumbers[2-1]);
 log(listOfNumbers["length"]);
